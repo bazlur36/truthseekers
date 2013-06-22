@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Fatawa feature.
+ */
+
+include_once 'fatawa.features.inc';

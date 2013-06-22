@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Orators feature.
+ */
+
+include_once 'orators.features.inc';

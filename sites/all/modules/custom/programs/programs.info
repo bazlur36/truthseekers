@@ -1,0 +1,13 @@
+name = Programs
+description = Programs
+core = 7.x
+package = truthseekers
+php = 5.2.4
+version = 7.x-1.0
+dependencies[] = flag
+dependencies[] = views
+dependencies[] = orators
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[flag][] = popular
+features[views_view][] = programs

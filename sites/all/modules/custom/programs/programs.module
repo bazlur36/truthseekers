@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * Code for the Programs feature.
+ */
+
+include_once 'programs.features.inc';
+drupal_add_js(drupal_get_path('module', 'programs') .'/programs.js');
